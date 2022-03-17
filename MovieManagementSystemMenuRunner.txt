@@ -1,0 +1,71 @@
+Movie Management System
+ 1 	 Add New Movie and Save 
+ 2 	 Generate List of Movies Released in a Year 
+ 3 	 Generate List of Random Movies 
+ 4 	 Save & Exit 
+Enter an option (1-4): 1
+Enter a movie Duration(mins): 120
+Enter a movie Title: amovie
+Enter a movie Year: 1976
+Saving movie...
+Added Movie to the file! 120	amovie	1976
+
+Movie Management System
+ 1 	 Add New Movie and Save 
+ 2 	 Generate List of Movies Released in a Year 
+ 3 	 Generate List of Random Movies 
+ 4 	 Save & Exit 
+Enter an option (1-4): 2
+Enter in year: 2004
+
+Movie List
+Duration  Year      Title     
+141       2004      Harry Potter and the Prisoner of Azkaban 
+103       2004      Saw        
+115       2004      The Incredibles 
+136       2004      Kill Bill: Vol. 2 
+108       2004      The Bourne Supremacy 
+131       2004      National Treasure 
+123       2004      Blade: Trinity 
+66        2004      9 Songs    
+124       2004      The Punisher 
+90        2004      Shark Tale 
+
+Total Duration: 1137 minutes
+
+Movie Management System
+ 1 	 Add New Movie and Save 
+ 2 	 Generate List of Movies Released in a Year 
+ 3 	 Generate List of Random Movies 
+ 4 	 Save & Exit 
+Enter an option (1-4): 3
+Enter number of movies: 6
+
+
+Movie List
+Duration  Year      Title     
+108       2016      American Pastoral 
+89        2017      S.W.A.T.: Under Siege 
+165       2012      Django Unchained 
+144       2016      13 Hours: The Secret Soldiers of Benghazi 
+137       1986      Aliens     
+120       1986      Platoon    
+Total Duration: 763 minutes
+
+Movie Management System
+ 1 	 Add New Movie and Save 
+ 2 	 Generate List of Movies Released in a Year 
+ 3 	 Generate List of Random Movies 
+ 4 	 Save & Exit 
+Enter an option (1-4): 4
+Saving Movies...
+Movie list saved successfully!
+Goodbye! 
+ 
+Movie Management System
+ 1 	 Add New Movie and Save 
+ 2 	 Generate List of Movies Released in a Year 
+ 3 	 Generate List of Random Movies 
+ 4 	 Save & Exit 
+Enter an option (1-4): 5
+Invalid option! Please try again.
