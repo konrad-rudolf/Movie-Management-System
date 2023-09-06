@@ -4,7 +4,7 @@ This program will read in a .txt file that is filled with a list of movies.
 You then have 4 options:
 
 1 	Add New Movie and Save 
-2 	Generate List of Movies Released in a Year 
+2 	Generate List of Movies Released in a specified Year 
 3 	Generate List of Random Movies 
 4 	Save & Exit 
 
